@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">tally</string>
+    <string name="app_name">简约记账</string>
+    <string name="main_record">记一笔</string>
 </resources>
